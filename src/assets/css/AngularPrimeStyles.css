@@ -1,0 +1,18 @@
+.header{
+    background-color: whitesmoke;
+    text-align: center;
+    border: 1px solid grey;
+    background: url('../images/header.jpg');
+    background-size: 100% 500%;
+    background-position: left top;
+    background-repeat: no-repeat;
+}
+
+.navbar_header{
+    float: left;
+    background: transparent;
+}
+
+.brand{
+    max-height: 80px;
+}
